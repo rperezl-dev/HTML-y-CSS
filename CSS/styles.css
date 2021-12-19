@@ -1,0 +1,44 @@
+*{
+   margin: 0; 
+}
+body{
+    background-color: lightblue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1{
+    color: red;
+    background-color: darkmagenta;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    padding: 20px;
+    border: 10px solid black;
+    font-size: 40px;
+
+}
+
+.text-center{
+    text-align: center;
+}
+.text-left{
+    text-align: left;
+}
+
+.text-left{
+    text-align: right;
+}
+
+.text-justify{
+    text-align: justify;
+
+}
+p{
+    margin: 10px;
+    font-size: 20px;
+
+}
+
+.text-danger{
+    color: red;
+    font-weight: bold;
+}
